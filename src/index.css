@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+/* Custom styles for Habit Alchemy */
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, sans-serif;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  min-height: 100vh;
+}
+
+/* Fantasy-themed color scheme */
+:root {
+  --primary: #8b5cf6;
+  --secondary: #06b6d4;
+  --accent: #f59e0b;
+  --success: #10b981;
+  --warrior: #ef4444;
+  --scholar: #3b82f6;
+  --artist: #8b5cf6;
+  --explorer: #10b981;
+  --sage: #f59e0b;
+}
