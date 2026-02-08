@@ -78,6 +78,26 @@ npm run build
 
 ## 🧪 Testing
 
+## Current Status
+
+- Extensive feature list and UI claims.
+- Implementation not verified in this audit.
+- Operational estimate: **55%** (feature-rich UI, unverified runtime).
+
+## API Endpoints
+
+- None. Client-side app.
+
+## Tests
+
+- Test tooling listed, but not run in this audit.
+
+## Future Work
+
+- Validate quest progression logic and persistence.
+- Add automated tests for core flows.
+- Add optional backend sync.
+
 ```bash
 # Run tests
 npm run test
